@@ -5,7 +5,7 @@
 Como desarrollador web autodidacta, he pasado el último año trabajando en una variedad de proyectos personales. Siempre estoy buscando oportunidades para crecer y mejorar mis habilidades técnicas. Me apasiona aprender y estar al tanto de las últimas tendencias en tecnología. Además, me interesa la actividad física y el aprendizaje en distintos temas.
 
 ### Proyectos destacados
-**Electronic Components Store:** Un sitio web para la venta de productos electrónicos. Desarrollé el sitio utilizando Express y Node.js, y utilicé MongoDB como base de datos para almacenar la información del producto. Además, el sitio cuenta con una sección dedicada al armado de computadoras, que incluye validaciones de compatibilidad entre los componentes, lo que ayuda a los clientes a seleccionar los productos adecuados para sus necesidades específicas.
+**Electronic Components Store:** Un sitio web para la venta de productos electrónicos. Desarrollé el sitio utilizando Express y Node.js, y utilicé MongoDB como base de datos. Además, el sitio cuenta con una sección dedicada al armado de computadoras, que incluye validaciones de compatibilidad entre los componentes, lo que ayuda a los clientes a seleccionar los productos adecuados para sus necesidades específicas.
 
 <p align='center'><a href='https://github.com/EmuSTTM'><img src='https://github-readme-streak-stats.herokuapp.com/?user=EmuSTTM&theme=flag-india'></a></p>
 
