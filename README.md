@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **EmuSTTM/emusttm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-¡Hola, soy Nico!
+### ¡Hola, soy Nico! 👋
 
 Como desarrollador web autodidacta, he pasado el último año trabajando en una variedad de proyectos personales, busco constantemente oportunidades para crecer y mejorar mis habilidades técnicas. Me apasiona aprender y estar al tanto de las últimas tendencias en tecnología, así como también me interesa la actividad física y el aprendizaje en distintos temas.
 
 
 Proyectos destacados
 Electronic Components Store: Un sitio web para la venta de productos electrónicos. Desarrollé el sitio utilizando Express y Node.js, y utilicé MongoDB como base de datos para almacenar la información del producto.  Además, el sitio cuenta con una sección dedicada al armado de computadoras, que incluye validaciones de compatibilidad entre los componentes, lo que ayuda a los clientes a seleccionar los productos adecuados para sus necesidades específicas.
+
 
 
 
@@ -43,13 +44,12 @@ Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no du
 
 ¡Gracias por visitar mi perfil de GitHub!
 
-
-![](https://komarev.com/ghpvc/?username=EmuSTTM&style=for-the-badge&color=yellow)
+<p align='center'><a href='https://github.com/EmuSTTM'><img src='https://github-readme-streak-stats.herokuapp.com/?user=EmuSTTM&theme=flag-india'></a></p>
 
 ![](https://komarev.com/ghpvc/?username=EmuSTTM&style=for-the-badge&color=orange)
 
-<p align='center'><a href='https://github.com/EmuSTTM'><img src='https://github-readme-stats.vercel.app/api?username=EmuSTTM&amp;layout=compact&amp;theme=gruvbox_light'></a></p>
-<p align='center'><a href='https://github.com/EmuSTTM'><img src='https://github-readme-streak-stats.herokuapp.com/?user=EmuSTTM&theme=gruvbox_light'></a></p>
 
 
-<p align='center'><a href='https://github.com/EmuSTTM'><img src='https://profile-counter.glitch.me/EmuSTTM/count.svg' alt='Visitor Count'></a></p>
+
+
+
