@@ -1,5 +1,20 @@
-  
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=754731&background=DE826000&width=700&lines=%C2%A1Hola%2C+soy+Nico!+%F0%9F%91%8B;Bienvenido+a+mi+perfil+%F0%9F%98%8A;Entusiasta+del+desarrollo+web+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Siempre+en+busqueda+de+nuevos+desaf%C3%ADos+%F0%9F%8E%AF)](https://git.io/typing-svg)
+
+ 
+ <div align=center>
+  <a href="https://git.io/typing-svg" style="margin-left: 20px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=440&height=45&color=754731&vCenter=true&duration=1&pause=1023&repeat=false&&lines=Nicol%C3%A1s+Perdomo" alt="Typing SVG" />
+  </a>
+</div>
+
+
+   <div align=center>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=440&height=45&color=754731&vCenter=true&pause=1000&size=22&lines=Full+stack+web+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;En+busqueda+de+nuevos+desaf%C3%ADos+%F0%9F%8E%AF+;Desarrollador+independiente+%F0%9F%90%92" alt="Typing SVG" />
+  </a>
+</div>
+
+
+
 
 
 ### Proyectos destacados
