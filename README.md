@@ -1,5 +1,5 @@
   
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=754731&background=DE826000&width=700&lines=%C2%A1Hola%2C+soy+Nico!+%F0%9F%91%8B;Bienvenido+a+mi+perfil+%F0%9F%98%8A;Entusiasta+del+desarrollo+web+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Siempre+en+busqueda+de+nuevos+desafios+%F0%9F%8E%AF)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=754731&background=DE826000&width=700&lines=%C2%A1Hola%2C+soy+Nico!+%F0%9F%91%8B;Bienvenido+a+mi+perfil+%F0%9F%98%8A;Entusiasta+del+desarrollo+web+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Siempre+en+busqueda+de+nuevos+desaf%C3%ADos+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 
 ### Proyectos destacados
