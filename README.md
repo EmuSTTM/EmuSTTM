@@ -6,15 +6,12 @@
   </a>
 </div>
 
-
    <div align=center>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=440&height=45&color=754731&vCenter=true&pause=1000&size=22&lines=Full+stack+web+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;En+busqueda+de+nuevos+desaf%C3%ADos+%F0%9F%8E%AF+;Desarrollador+independiente+%F0%9F%90%92" alt="Typing SVG" />
   </a>
 </div>
 
-
-<!-- Social icons section -->
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBncDnWDctqjHHkxTnJvgFKfkjlDzZGSqmjlwtpmvPCncnbLZKzTsgjFdwpgTzFrbsLNxWW"><img width="32px" alt="Email" title="Email" src="https://github.com/EmuSTTM/EmuSTTM/blob/main/source/email.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -25,19 +22,10 @@
 </p>
 
 
-
-
-
-
-
-
 <p align='center'><a href='https://github.com/EmuSTTM'><img src='https://github-readme-streak-stats.herokuapp.com/?user=EmuSTTM&theme=flag-india'></a></p>
 
 
-
-
-
-<details> 
+<details open> 
   <summary><h3>📘 Mis proyectos</h3></summary>
 
   <div align="center">
@@ -53,7 +41,7 @@
 </details>
 
 
-<details>
+<details open >
 
 <summary><h3>🛠️ Mis herramientas</h3></summary>
 
@@ -68,7 +56,7 @@
 #
 </details>
 
-<details>
+<details open>
 
 <summary><h3>🦍 Habilidades blandas</h3></summary>
 
