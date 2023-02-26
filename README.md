@@ -14,36 +14,106 @@
 </div>
 
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBncDnWDctqjHHkxTnJvgFKfkjlDzZGSqmjlwtpmvPCncnbLZKzTsgjFdwpgTzFrbsLNxWW"><img width="32px" alt="Email" title="Email" src="https://github.com/EmuSTTM/EmuSTTM/blob/main/source/email.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/channels/@me/507590597465473034" alt="Discord" title="EmuSTTM#6439"><img width="32px" src="https://github.com/EmuSTTM/EmuSTTM/blob/main/source/discord.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/nico.perdomo.03/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/EmuSTTM/EmuSTTM/blob/main/source/instagram-logo.png"></a>
+
+</p>
 
 
 
-### Proyectos destacados
-**Electronic Components Store:** Un sitio web para la venta de productos electrónicos. Desarrollé el sitio utilizando Express y Node.js, y utilicé MongoDB como base de datos. Además, el sitio cuenta con una sección dedicada al armado de computadoras, que incluye validaciones de compatibilidad entre los componentes, lo que ayuda a los clientes a seleccionar los productos adecuados para sus necesidades específicas.
+
+
+
+
 
 <p align='center'><a href='https://github.com/EmuSTTM'><img src='https://github-readme-streak-stats.herokuapp.com/?user=EmuSTTM&theme=flag-india'></a></p>
 
-### Habilidades técnicas
+
+
+
+
+<details open> 
+  <summary><h3>📘 Mis proyectos</h3></summary>
+
+  <div align="center">
+    <a href="https://github.com/EmuSTTM/Electronic-Components-Store">
+      <img align="right" width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EmuSTTM&repo=Electronic-Components-Store&theme=react&bg_color=754731&title_color=FCD757&hide_border=true&icon_color=F8D866&show_icons=false">
+    </a>
+    <p align="justify">
+      Un sitio web para la venta de productos electrónicos. Desarrollé el sitio utilizando Express y Node.js, y utilicé MongoDB como base de datos. Además, el sitio cuenta con una sección dedicada al armado de computadoras, que incluye validaciones de compatibilidad entre los componentes, lo que ayuda a los clientes a seleccionar los productos adecuados para sus necesidades específicas.
+    </p>
+  </div> 
+
+#
+</details>
+
+
+<details open>
+
+<summary><h3>🛠️ Mis herramientas</h3></summary>
+
 - Lenguajes de programación: JavaScript, Python, HTML, CSS
+
 - Frameworks: React, Node.js, Express.js
+
 - Bases de datos: MongoDB, MySQL, PostgreSQL
+
 - Control de versiones: Git, GitHub
 
-### Habilidades blandas
+#
+</details>
+
+<details open>
+
+<summary><h3>🦍 Habilidades blandas</h3></summary>
+
 - Proactividad: Siempre estoy buscando desafiar mis conocimientos y tomo cada oportunidad para mejorar mis habilidades.
+
 - Capacidad de aprendizaje: Tengo un buen uso de mis capacidades lógicas.
+
 - Colaboración: Estoy abierto al trabajo en equipo y busco críticas constructivas del mismo.
+
 - Resolución de problemas: Disfruto enfrentando desafíos lógicos y técnicos.
 
-### Sobre mí
+
+#
+</details>
+
+
+
+
+
+<div align=center>
+
+<h3>Sobre mí</h3>
 Como desarrollador web autodidacta, he pasado el último año trabajando en una variedad de proyectos personales. Siempre estoy buscando oportunidades para crecer y mejorar mis habilidades técnicas. Me apasiona aprender y estar al tanto de las últimas tendencias en tecnología. Además, me interesa la actividad física y el aprendizaje en distintos temas.
 
-Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no dudes en contactarme a través de mi [correo electrónico](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBncDnWDctqjHHkxTnJvgFKfkjlDzZGSqmjlwtpmvPCncnbLZKzTsgjFdwpgTzFrbsLNxWW)o a través de mi perfil de [Instagram](https://www.instagram.com/nico.perdomo.03/).
-
-¡Gracias por visitar mi perfil de GitHub!
+Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no dudes en contactarme a través de mi [correo electrónico](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBncDnWDctqjHHkxTnJvgFKfkjlDzZGSqmjlwtpmvPCncnbLZKzTsgjFdwpgTzFrbsLNxWW) o a través de mi perfil de [Instagram](https://www.instagram.com/nico.perdomo.03/).
 
 
+
+</div>
+
+<p align=center >¡Gracias por visitar mi perfil de GitHub!</p> 
+
+
+<div align=center>
 
 ![](https://komarev.com/ghpvc/?username=EmuSTTM&style=for-the-badge&color=orange)
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EmUSTTM?color=7c007c&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+
+</div>
+
+
+
+
+
 
 
 
