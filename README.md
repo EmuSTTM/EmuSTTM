@@ -25,7 +25,7 @@
 <p align='center'><a href='https://github.com/EmuSTTM'><img src='https://github-readme-streak-stats.herokuapp.com/?user=EmuSTTM&theme=flag-india'></a></p>
 
 
-<details open> 
+<details> 
   <summary><h3>📘 Mis proyectos</h3></summary>
 
   <div align="center">
