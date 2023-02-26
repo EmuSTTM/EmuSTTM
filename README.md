@@ -30,11 +30,9 @@
 
   <div align="center">
     <a href="https://github.com/EmuSTTM/Electronic-Components-Store">
-      <img align="right" width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EmuSTTM&repo=Electronic-Components-Store&theme=react&bg_color=754731&title_color=FCD757&hide_border=true&icon_color=F8D866&show_icons=false">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EmuSTTM&repo=Electronic-Components-Store&theme=react&bg_color=754731&title_color=FCD757&hide_border=true&icon_color=F8D866&show_icons=false">
     </a>
-    <p align="justify">
-      Un sitio web para la venta de productos electrónicos. Desarrollé el sitio utilizando Express y Node.js, y utilicé MongoDB como base de datos. Además, el sitio cuenta con una sección dedicada al armado de computadoras, que incluye validaciones de compatibilidad entre los componentes, lo que ayuda a los clientes a seleccionar los productos adecuados para sus necesidades específicas.
-    </p>
+
   </div> 
 
 #
