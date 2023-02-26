@@ -37,7 +37,7 @@
 
 
 
-<details open> 
+<details> 
   <summary><h3>📘 Mis proyectos</h3></summary>
 
   <div align="center">
@@ -53,7 +53,7 @@
 </details>
 
 
-<details open>
+<details>
 
 <summary><h3>🛠️ Mis herramientas</h3></summary>
 
@@ -68,7 +68,7 @@
 #
 </details>
 
-<details open>
+<details>
 
 <summary><h3>🦍 Habilidades blandas</h3></summary>
 
