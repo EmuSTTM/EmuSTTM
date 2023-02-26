@@ -13,11 +13,11 @@
 </div>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBncDnWDctqjHHkxTnJvgFKfkjlDzZGSqmjlwtpmvPCncnbLZKzTsgjFdwpgTzFrbsLNxWW"><img width="32px" alt="Email" title="Email" src="https://github.com/EmuSTTM/EmuSTTM/blob/main/source/email.png"/></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBncDnWDctqjHHkxTnJvgFKfkjlDzZGSqmjlwtpmvPCncnbLZKzTsgjFdwpgTzFrbsLNxWW"><img width="32px" alt="Email" title="Email" src="https://github.com/EmuSTTM/EmuSTTM/blob/main/sources/email.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/channels/@me/507590597465473034" alt="Discord" title="EmuSTTM#6439"><img width="32px" src="https://github.com/EmuSTTM/EmuSTTM/blob/main/source/discord.png"/></a>
+  <a href="https://discord.com/channels/@me/507590597465473034" alt="Discord" title="EmuSTTM#6439"><img width="32px" src="https://github.com/EmuSTTM/EmuSTTM/blob/main/sources/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/nico.perdomo.03/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/EmuSTTM/EmuSTTM/blob/main/source/instagram-logo.png"></a>
+  <a href="https://www.instagram.com/nico.perdomo.03/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/EmuSTTM/EmuSTTM/blob/main/sources/instagram-logo.png"></a>
 
 </p>
 
