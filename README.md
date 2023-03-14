@@ -45,7 +45,7 @@
 
 - Lenguajes de programación: JavaScript, Python, HTML, CSS
 
-- Frameworks: React, Node.js, Express.js
+- Frameworks: React.js, Node.js, Express.js
 
 - Bases de datos: MongoDB, MySQL, PostgreSQL
 
