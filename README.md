@@ -44,13 +44,12 @@
 
 <summary><h3>🛠️ Mis herramientas</h3></summary>
 
-- Lenguajes de programación: JavaScript, Python, HTML, CSS
+- Lenguajes de programación: JavaScript, TypeScript, Python, HTML, CSS
 
-- Frameworks: React.js, Node.js, Express.js
+- Frameworks: ReactJS, NodeJS, Express, NextJS
 
 - Bases de datos: MongoDB, MySQL, PostgreSQL
 
-- Control de versiones: Git, GitHub
 
 #
 </details>
@@ -74,7 +73,7 @@
 <div align=center>
 
 <h3>Sobre mí</h3>
-Como desarrollador web autodidacta, he pasado el último año trabajando en una variedad de proyectos personales. Siempre estoy buscando oportunidades para crecer y mejorar mis habilidades técnicas. Me apasiona aprender y estar al tanto de las últimas tendencias en tecnología. Además, me interesa la actividad física y el aprendizaje en distintos temas.
+Como desarrollador web autodidacta, pasé el último año trabajando en una variedad de proyectos personales. Siempre estoy buscando oportunidades para crecer y mejorar mis habilidades técnicas. Me apasiona aprender y estar al tanto de las últimas tendencias en tecnología. Además, me interesa la actividad física y el aprendizaje en distintos temas.
 
 Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no dudes en contactarme a través de mi [correo electrónico](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBncDnWDctqjHHkxTnJvgFKfkjlDzZGSqmjlwtpmvPCncnbLZKzTsgjFdwpgTzFrbsLNxWW) o a través de mi perfil de [Instagram](https://www.instagram.com/nico.perdomo.03/).
 
