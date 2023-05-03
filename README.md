@@ -6,6 +6,7 @@
   </a>
 </div>
 
+
    <div align=center>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=440&height=45&color=754731&vCenter=true&pause=1000&size=22&lines=Full+stack+web+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;En+busqueda+de+nuevos+desaf%C3%ADos+%F0%9F%8E%AF+;Desarrollador+independiente+%F0%9F%90%92" alt="Typing SVG" />
@@ -21,7 +22,24 @@
 
 </p>
 
-<p align='center'><a href='https://github.com/EmuSTTM'><img src='https://github-readme-streak-stats.herokuapp.com/?user=EmuSTTM&theme=flag-india'></a></p>
+
+
+
+
+<div >
+<br>
+ 
+## Sobre mí
+
+¡Qué tal! Soy un desarrollador web autodidacta de Argentina y hace un tiempo empecé a meterme de lleno en la programación. La verdad que me encanta lo que hago y siempre estoy buscando formas de seguir aprendiendo y mejorar mis habilidades técnicas. Me gusta estar al tanto de las últimas tendencias en tecnología y siempre estoy explorando nuevas herramientas para seguir creciendo como programador. 😊
+ 
+Si tenés alguna duda o querés hablar sobre algún proyecto en el que podamos trabajar juntos, no dudes en contactarme por mi [correo electrónico](https://mail.google.com/mail/u/0/#inbox?) 
+o por mi perfil de [Linkedin](https://www.linkedin.com/in/nicol%C3%A1s-perdomo-5b270b23a/). Estoy siempre dispuesto a hacer nuevas conexiones y a explorar oportunidades. 
+
+
+
+
+</div>
 
 <details> 
   <summary><h3>📘 Mis proyectos</h3></summary>
@@ -33,6 +51,12 @@
    <a href="https://github.com/EmuSTTM/Mern-Context-Crud">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EmuSTTM&repo=Mern-Context-Crud&theme=react&bg_color=754731&title_color=FCD757&hide_border=true&icon_color=F8D866&show_icons=false">
     </a>
+   <a href="https://github.com/EmuSTTM/Google-Translate-Clone">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EmuSTTM&repo=Google-Translate-Clone&theme=react&bg_color=754731&title_color=FCD757&hide_border=true&icon_color=F8D866&show_icons=false">
+    </a>
+   <a href="https://github.com/EmuSTTM/React-Gif-Search">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EmuSTTM&repo=React-Gif-Search&theme=react&bg_color=754731&title_color=FCD757&hide_border=true&icon_color=F8D866&show_icons=false">
+    </a>
 
   </div> 
 
@@ -40,7 +64,7 @@
 </details>
 
 
-<details open >
+<details>
 
 <summary><h3>🛠️ Mis herramientas</h3></summary>
 
@@ -54,9 +78,9 @@
 #
 </details>
 
-<details open>
+<details>
 
-<summary><h3>🦍 Habilidades blandas</h3></summary>
+<summary><h3>🙂 Habilidades blandas</h3></summary>
 
 - Proactividad: Siempre estoy buscando desafiar mis conocimientos y tomo cada oportunidad para mejorar mis habilidades.
 
@@ -70,16 +94,10 @@
 #
 </details>
 
-<div align=center>
 
-<h3>Sobre mí</h3>
-Como desarrollador web autodidacta, pasé el último año trabajando en una variedad de proyectos personales. Siempre estoy buscando oportunidades para crecer y mejorar mis habilidades técnicas. Me apasiona aprender y estar al tanto de las últimas tendencias en tecnología. Además, me interesa la actividad física y el aprendizaje en distintos temas.
-
-Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no dudes en contactarme a través de mi [correo electrónico](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBncDnWDctqjHHkxTnJvgFKfkjlDzZGSqmjlwtpmvPCncnbLZKzTsgjFdwpgTzFrbsLNxWW) o a través de mi perfil de [Instagram](https://www.instagram.com/nico.perdomo.03/).
+<p align='center'><a href='https://github.com/EmuSTTM'><img src='https://github-readme-streak-stats.herokuapp.com/?user=EmuSTTM&theme=flag-india'></a></p>
 
 
-
-</div>
 
 <p align=center >¡Gracias por visitar mi perfil de GitHub!</p> 
 
